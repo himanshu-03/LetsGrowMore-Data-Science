@@ -1,5 +1,7 @@
 # LGMVIP - Data Science Internship
 
+This repository contains the code and documentation for my internship project in Data Science at LetsGrowMore, a leading data science and artificial intelligence company. The project focused on Data Science and Machine Learning Algorithms.
+
 <details>
 <summary><h2>📌 Task 1 - IRIS Flower Classification<h2></summary>
 
